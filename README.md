@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/JanviMadhukar/Python_Data_Project)
+
 # Overview
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
